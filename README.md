@@ -1,57 +1,31 @@
-# Phone-and-usb-c-blender
-Модели телефона и usb c кабеля, выполненные в Blender.
-**Author**: https://vk.com/lxsthokage 
+# Honor 9X 3D Модель
+## Фреймворк
+- **Blender**
 
-## Content
-Еach directory contains:
+# Описание
+Модель телефона Honor 9X, выполненная в программе Blender для ознакомления с внешним видом устройства и его функционалом.
 
- - the original file my phone model
- - a quest file prepared for localization (DefaultQuests.json).
+![image](https://sun9-80.userapi.com/impg/Kfmd-zsYEWXMoKju0R0GQMtr0DOmGqbkydC9Fg/Ez0sDWbLcPI.jpg?size=268x458&quality=95&sign=5873573824cddfec8a1f28b97bfed8de&type=album)
+![image](https://sun7-18.userapi.com/impg/QzpDe0WeB3fCjBRFui13gcxf-Q620VaRcxFodA/Z7bxx3OQbSk.jpg?size=268x458&quality=95&sign=59e69a3c5566bb1b29a3a465c3f04419&type=album)
 
-## How to install
+# USB Type-C кабель
+## Фреймворк
+- **Blender**
 
- - Go to releases page
- - Choose version
- - Download archive in attachments
- - Unpack archive
- - Copy file DefaultQuests.json in <modpack_path>/config/betterquesting/ with replacement
- - Copy DDSS_Locales.zip in <modpack_path>/resourcepacks/
- - *.lang is not needed for translating
- - Run modpack
- - Activate Resource pack
- - Run singleplayer or multiplayer
- - Execute command /bq_admin default load
+# Описание
+Модель кабеля зарядки для разъёма Type-C, выполненная для ознакомления с внешним видом кабеля.
 
-## How to contribute?
+![image](https://github.com/LxstHokage/Phone-and-usb-c-blender/assets/109164076/5e657388-6116-4444-9ecc-de18f6524dd4)
 
-You need to make a Fork repository, translate the localization file (create a new one, if necessary), then make a pull request and the file will be published and added to the resource pack
+# Разработка
+Обе модели делались по подобию реальных устройств, сохраняя их масштабы и размеры. Для создания реалистичной модели телефона были применены такие функции Blender, как:
+- *Логический модификатор*
+- *Меш*
+- *Гладкое затенение*
 
+И многие другие базовые функции. 
+Аналогично проводилось создание кабеля зарядки.
 
-## Для русскоязычной аудитории:
-# Файлы локализации для сборки Dungeons, Dragons and Space Shuttles
-
-**Ссылка на сборку**: https://minecraft.curseforge.com/projects/dungeons-dragons-and-space-shuttles  
-**Автор сборки**: https://minecraft.curseforge.com/members/Freebi85  
-**Русский перевод**: cyber01  
-
-## Содержание
-Каждая директория содержит:
-
- - оригинальный файл с квестами (с припиской _original в конце)
- - файл квестов, подготовленный для локализации (DefaultQuests.json).
- - файлы локализации (для каждого языка (локали) свой).
- - Ресурс пак с файлами локализации, который нужно загрузить в сборку как и обычны ресурспак, а после этого активировать
-
-## Как установить?
-
- - Перейдите на страницу Релизов (Releases)
- - Выберите нужную версию
- - Скачайте приложенный архив
- - Распакуйте архив
- - Скопируйте файл DefaultQuests.json в <папка со сборкой>/config/betterquesting/ с заменой
- - Скопируйте файл DDSS_Locales.zip в <папка со сборкой>/resourcepacks/
- - Файлы *.lang вам не понадобятся
- - Запустите сборку
- - Активируйте ресурспак
- - Запустите одиночную или сетевую игру
- - Выполните команду /bq_admin default load
+# Взаимодействие
+Хотите попробовать сделать что-то своё, или отредактировать мои модели? Пожалуйста! для этого:
+- **1. Скачайте программу Blender. Она бесплатна в магазине Стима, либо же скачайте её с официального сайта: 
