@@ -40,4 +40,4 @@
 
 [VK](https://vk.com/lxsthokage)
 [Telegram](https://t.me/lasthxkage)
-[Почта](altroshin2003@mail.ru)
+Почта: altroshin2003@mail.ru
